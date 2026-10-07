@@ -1,0 +1,14 @@
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/bin/Debug/net10.0/GroupTripA
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/bin/Debug/net10.0/GroupTripA.deps.json
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/bin/Debug/net10.0/GroupTripA.runtimeconfig.json
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/bin/Debug/net10.0/GroupTripA.dll
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/bin/Debug/net10.0/GroupTripA.pdb
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/GroupTripA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/GroupTripA.AssemblyInfoInputs.cache
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/GroupTripA.AssemblyInfo.cs
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/GroupTripA.csproj.CoreCompileInputs.cache
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/GroupTripA.dll
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/refint/GroupTripA.dll
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/GroupTripA.pdb
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/GroupTripA.genruntimeconfig.cache
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/ref/GroupTripA.dll
