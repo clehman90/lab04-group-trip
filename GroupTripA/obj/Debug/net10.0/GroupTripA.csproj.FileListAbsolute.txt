@@ -12,3 +12,4 @@
 /Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/GroupTripA.pdb
 /Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/GroupTripA.genruntimeconfig.cache
 /Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/ref/GroupTripA.dll
+/Users/chrislehman/CSCI 1250/lab04-group-trip/GroupTripA/obj/Debug/net10.0/GroupTripA.sourcelink.json

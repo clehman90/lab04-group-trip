@@ -36,25 +36,35 @@ System.Console.WriteLine("Fuel Cost: " + fuelCost.ToString("C"));
 System.Console.WriteLine("Pizza cost: " + totalPizzaCost.ToString("C"));
 System.Console.WriteLine("Trip total: " + tripTotal.ToString("C"));
 
-//part 2 - Calculates pizza slices needed, how many slices each person gets, and the cost of the pizza.
+//part 2 - The Group
+
+string[] names = { "Ada", "Grace", "Alan", "Katherine" };
+double[] hoursWorked = { 22, 15, 30, 18 };
+double[] hourlyRates = { 13.50, 16.00, 11.20, 14.80 };
 
 //math
 
-//double totalSlices = numberOfPizzas * Slices;
-//double slicesPerPerson = totalSlices / numberOfPeople;
+double totalSlices = numberOfPizzas * Slices;
+double slicesEach = totalSlices / names.Length;
+double costPerPerson = tripTotal / names.Length;
 
 //output
-//System.Console.WriteLine("Slices needed: " + totalSlices.ToString("F1"));
-//System.Console.WriteLine("Slices per person: " + slicesPerPerson.ToString("F1"));
-//System.Console.WriteLine("Pizza cost: " + totalPizzaCost.ToString("C"));
 
-//part 3 - Calculates gross pay, tax withheld, and how much money you get after taxes.
+System.Console.WriteLine("=== Part 2: The Group ===");
+System.Console.WriteLine("People going: " + names.Length);
+System.Console.WriteLine("Slices each: " + slicesEach.ToString("F1"));
+System.Console.WriteLine("Cost per person: " + costPerPerson.ToString("C"));
 
+//part 3 - The Report
 
-//const double taxRate = .18;
+/*const double taxRate = .18;
 
-//math
+for (int i = 0; i < names.Length; i++)
+{
+TakeHomePay(hoursWorked[i], hourlyRates[i], taxRate);
 
+}
+*/
 //double grossPay = hoursWorked * (double)hourlyRate;
 //double taxWithheld = grossPay * (double)taxRate;
 //double takeHomePay = grossPay - (double)taxWithheld;
@@ -83,5 +93,5 @@ static double FuelCost(double tripMiles, double milesPerGallon, double gasPrice)
     double fuel = gallonsNeeded * gasPrice;
     return gallonsNeeded * gasPrice;
 }
-//static double TakeHomePay(double hours, double hourlyRate, double taxRate);
+static double TakeHomePay(double hours, double hourlyRate, double taxRate);
 //static double HoursToCover(double amountOwed, double takeHomePerHour);
